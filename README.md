@@ -18,8 +18,6 @@ HelemaalWak is een wekkerapp die gericht is op mensen die moeite hebben met opst
 
 ## Welke plugin's worden gebruikt?
 
-- Splashscreen
-- Device
 - Media (geluid)
 - Vibratie
 - Flashlight
@@ -31,3 +29,7 @@ HelemaalWak is een wekkerapp die gericht is op mensen die moeite hebben met opst
 
 - SMS
 - Local notifications
+
+## Credits
+
+Ontworpen en ontwikkeld door Erik Handels en Peter ten Hoor
