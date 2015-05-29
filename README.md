@@ -15,6 +15,7 @@ HelemaalWak is een wekkerapp die gericht is op mensen die moeite hebben met opst
 ## Welke frameworks worden gebruikt?
 
 - Materialize
+- jQuery Mobile
 
 ## Welke plugin's worden gebruikt?
 
